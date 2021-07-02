@@ -1,4 +1,4 @@
-package com.demo.designpattern.strategymode;
+package strategymode;
 
 /**
  * @Description 策略模式
